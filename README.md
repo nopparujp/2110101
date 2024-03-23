@@ -1,2 +1,2 @@
-# 2110101-2024
-Computer Programming 2024
+# 2110101
+Computer Programming
