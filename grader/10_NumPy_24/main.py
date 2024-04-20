@@ -13,5 +13,7 @@ def main():
     else:
         print("No peaks")
 
+        a = 1
+
 
 exec(input().strip())
